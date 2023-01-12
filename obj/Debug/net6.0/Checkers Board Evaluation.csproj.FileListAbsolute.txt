@@ -1,0 +1,15 @@
+C:\Users\Jenni\source\repos\Checkers Board Evaluation\bin\Debug\net6.0\Checkers Board Evaluation.exe
+C:\Users\Jenni\source\repos\Checkers Board Evaluation\bin\Debug\net6.0\Checkers Board Evaluation.deps.json
+C:\Users\Jenni\source\repos\Checkers Board Evaluation\bin\Debug\net6.0\Checkers Board Evaluation.runtimeconfig.json
+C:\Users\Jenni\source\repos\Checkers Board Evaluation\bin\Debug\net6.0\Checkers Board Evaluation.dll
+C:\Users\Jenni\source\repos\Checkers Board Evaluation\bin\Debug\net6.0\Checkers Board Evaluation.pdb
+C:\Users\Jenni\source\repos\Checkers Board Evaluation\obj\Debug\net6.0\Checkers Board Evaluation.csproj.AssemblyReference.cache
+C:\Users\Jenni\source\repos\Checkers Board Evaluation\obj\Debug\net6.0\Checkers Board Evaluation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jenni\source\repos\Checkers Board Evaluation\obj\Debug\net6.0\Checkers Board Evaluation.AssemblyInfoInputs.cache
+C:\Users\Jenni\source\repos\Checkers Board Evaluation\obj\Debug\net6.0\Checkers Board Evaluation.AssemblyInfo.cs
+C:\Users\Jenni\source\repos\Checkers Board Evaluation\obj\Debug\net6.0\Checkers Board Evaluation.csproj.CoreCompileInputs.cache
+C:\Users\Jenni\source\repos\Checkers Board Evaluation\obj\Debug\net6.0\Checkers Board Evaluation.dll
+C:\Users\Jenni\source\repos\Checkers Board Evaluation\obj\Debug\net6.0\refint\Checkers Board Evaluation.dll
+C:\Users\Jenni\source\repos\Checkers Board Evaluation\obj\Debug\net6.0\Checkers Board Evaluation.pdb
+C:\Users\Jenni\source\repos\Checkers Board Evaluation\obj\Debug\net6.0\Checkers Board Evaluation.genruntimeconfig.cache
+C:\Users\Jenni\source\repos\Checkers Board Evaluation\obj\Debug\net6.0\ref\Checkers Board Evaluation.dll
